@@ -36,27 +36,3 @@ create those tables, you need to type in another command.
 ```sh
 python manage.py migrate
 ```
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Output:
-![img.png](img.png)
